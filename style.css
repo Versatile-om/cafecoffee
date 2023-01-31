@@ -1,0 +1,67 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+
+body{
+  background:url('/images /bg3.jpg') no-repeat ;
+ background-size:cover; }
+
+.container{
+  width: 100%;
+  display:flex;
+  align-items: center ;
+  position: absolute;
+  top:13vh;
+}
+
+.logo{
+ position: absolute;
+ top:10vh;
+ left:8vh;
+ font-family: 'Merienda', cursive;
+ font-size: 25px;
+ color:white;
+}
+
+#slogan{
+  color:white;
+  font-weight: bold;
+  position: absolute ;
+  top:18vh;
+  left:12vh;
+  text-align: center;
+}
+
+.btn{
+  position: absolute ;
+  top:27vh;
+  left:13vh;
+  width:200px;
+  height: 40px;
+  background-color:#B48307;
+  border:solid 2px white;
+  border-radius:20px;
+  color:white;
+  font-size: 20px;
+  cursor:pointer;
+}
+
+.btn:hover {
+  border:none;
+  background-color:#443328;
+  color:#B48307;
+}
+/*
+ a {
+  position: absolute;
+  top:32vh;
+  left:21vh;
+  font-size: 12px;
+  color:black;
+}
+*/
+
+/* Menu styling*/
+
