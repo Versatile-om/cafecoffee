@@ -5,7 +5,7 @@
 }
 
 .bg{
-  background:url('/images /menu.jpg') no-repeat;
+  background:url('menu.jpg') no-repeat;
   background-size: cover;
   width:100vw;
   height:100vh;
